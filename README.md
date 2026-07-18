@@ -1,10 +1,8 @@
 # VitaFlow 简历流
 
-> 本项目是一个纯 **Vibe Coding** 实践项目，从产品构思、界面设计到功能开发，均在与 AI 的持续协作中完成。
-
 VitaFlow 是一个面向求职者的智能简历生成与优化平台，提供在线简历编辑、AI 生成与诊断、JD 匹配优化、多模板预览、分享，以及 PDF/Word 导出能力。项目采用前后端分离架构，后端基于 FastAPI，前端基于 Vue 3 + Vite。
 
-**线上体验：[https://vita.cgz233.cn](https://vita.cgz233.cn)**
+**线上体验：[https://vitaflow.vip](https://vitaflow.vip)**
 
 ## 主要功能
 
